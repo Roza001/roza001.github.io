@@ -14,8 +14,8 @@ function App() {
       <Home />
       <Hidden xsDown>
         <Projects />
+        <Contact />
       </Hidden>
-      <Contact />
     </>
   );
 }

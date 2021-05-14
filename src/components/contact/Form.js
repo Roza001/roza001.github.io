@@ -156,7 +156,7 @@ const Form = () => {
           </Button>
         </form>
       ) : (
-        <ReCAPTCHA
+        <ReCAPTCHA style={{float: "right", paddingRight: "3em"}}
           sitekey="6LcicNUaAAAAAG8T5H0Z7E9uDbl3SfJtUwm79J91"
           onChange={sendEmail}
         />
