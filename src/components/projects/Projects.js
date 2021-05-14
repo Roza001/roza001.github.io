@@ -24,7 +24,7 @@ const projects = [
     preprosessors, Less and Sass, as well as the basics of Node.js and npm
     scripts.`,
     code: 'https://github.com/Roza001/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4',
-    demo: 'https://roza001.github.io/bootstrap4/',
+    demo: 'https://roza001.github.io/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4/',
   },
   {
     src: snake,
