@@ -39,15 +39,20 @@ export default function Project({ project }) {
             <p style={{color: 'white'}}>
               {project.description}
             </p>
-            <Button  variant="outlined" className={classes.button}  href={project.code} target="_none">
-            Code
-        </Button>
-        <Button
-          className={classes.button} 
-          variant="outlined"
-          href={project.demo} target="_none">
-            Demo
-          </Button>
+            {project.title != "TripBuddyc" && (
+              <>
+                <Button  variant="outlined" className={classes.button}  href={project.code} target="_none">
+                  Code
+                </Button>
+                <Button
+                  className={classes.button} 
+                  variant="outlined"
+                  href={project.demo} target="_none">
+                  Demo
+                </Button>
+              </>
+            )}
+
          </Grid>
         </Grid>
         </>

@@ -2,9 +2,11 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import ristorante from "../../images/ristorante.PNG";
 import snake from "../../images/snake3.png";
+import thesis from "../../images/thesis.jpg";
 import html5 from "../../images/html50.png";
 import css from "../../images/css50.png";
 import js from "../../images/js50.png";
+import react50 from "../../images/react50.png";
 import node50 from "../../images/node50.png";
 import sass50 from "../../images/sass50.png";
 import bootstrap50 from "../../images/boostrap50.png";
@@ -33,6 +35,17 @@ const projects = [
     description: `Classic game Snake as a javascript script on a html page.`,
     code: 'https://github.com/Roza001/jsSnake',
     demo: 'http://htmlpreview.github.io/?https://github.com/Roza001/jsSnake/blob/main/snake.html'
+  },
+  {
+    src: thesis,
+    technologies: [html5, js, react50, bootstrap50],
+    title: "TripBuddyc",
+    description: `Full stack application for my engineering Thesis project. 
+    TripBuddyc is a social app for travelers, with the goal of helping people find buddies to travel with.
+    I was responsible for the front-end side of the app and I created it in ReactJS. For authentication, JWT tokens were used.
+    All API calls were done using AXIOS and WebSockets were used for the chat.  `,
+    code: '',
+    demo: ''
   },
 ];
 
