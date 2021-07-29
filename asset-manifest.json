@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cadc003a.chunk.css",
-    "main.js": "/static/js/main.7f5e7f35.chunk.js",
-    "main.js.map": "/static/js/main.7f5e7f35.chunk.js.map",
+    "main.js": "/static/js/main.893e983d.chunk.js",
+    "main.js.map": "/static/js/main.893e983d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a72a7b2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.a72a7b2e.js.map",
     "static/css/2.6e24b6cf.chunk.css": "/static/css/2.6e24b6cf.chunk.css",
@@ -19,15 +19,17 @@
     "static/media/html50.906cc162.png": "/static/media/html50.906cc162.png",
     "static/media/js50.30e3e82e.png": "/static/media/js50.30e3e82e.png",
     "static/media/node50.06c7e72c.png": "/static/media/node50.06c7e72c.png",
+    "static/media/react50.5c7da316.png": "/static/media/react50.5c7da316.png",
     "static/media/ristorante.38bb08c4.PNG": "/static/media/ristorante.38bb08c4.PNG",
     "static/media/sass50.5bf5c103.png": "/static/media/sass50.5bf5c103.png",
-    "static/media/snake3.7ef905cc.png": "/static/media/snake3.7ef905cc.png"
+    "static/media/snake3.7ef905cc.png": "/static/media/snake3.7ef905cc.png",
+    "static/media/thesis.80525040.jpg": "/static/media/thesis.80525040.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a72a7b2e.js",
     "static/css/2.6e24b6cf.chunk.css",
     "static/js/2.eca8b350.chunk.js",
     "static/css/main.cadc003a.chunk.css",
-    "static/js/main.7f5e7f35.chunk.js"
+    "static/js/main.893e983d.chunk.js"
   ]
 }
