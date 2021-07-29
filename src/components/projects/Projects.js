@@ -43,7 +43,7 @@ const projects = [
     description: `Full stack application for my engineering Thesis project. 
     TripBuddyc is a social app for travelers, with the goal of helping people find buddies to travel with.
     I was responsible for the front-end side of the app and I created it in ReactJS. For authentication, JWT tokens were used.
-    All API calls were done using AXIOS and WebSockets were used for the chat.  `,
+    All API calls were done using AXIOS and WebSockets were used for the chat. `,
     code: '',
     demo: ''
   },
